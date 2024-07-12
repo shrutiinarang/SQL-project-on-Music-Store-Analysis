@@ -11,8 +11,7 @@ To run this project on your machine you need to install any SQL-supported DBMS t
 Note: If you are using PostgreSQL then restore the backup file of the database and save yourself some time.
 
 # Database and Tools :
-Postgre SQL
-PgAdmin4
+Postgre SQL and PgAdmin4
 
 # Questions Answered
 The following are a few of the questions that are answered in the project :
